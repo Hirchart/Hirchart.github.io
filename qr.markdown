@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /qr/
 ---
 ## **Verzoek: <font color="red">boycot</font> de "QR-samenleving".**
