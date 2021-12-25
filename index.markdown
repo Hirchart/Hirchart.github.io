@@ -4,6 +4,7 @@ layout: home
 
 <br/>
 <p align=center>
+<br/>
 ![QR](docs/assets/QR.jpg)
 <br/>
 "<i>Elke verandering is een verslechtering,<br/>
