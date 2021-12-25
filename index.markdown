@@ -3,8 +3,8 @@ layout: home
 ---
 
 <br/>
-[![QR](docs/assets/QR.jpg)](qr)
 <p align=center>
+[![QR](docs/assets/QR.jpg)]
 <br/>
 "<i>Elke verandering is een verslechtering,<br/>
 zelfs een verbetering</i>" - J.C. Bloem
