@@ -4,7 +4,7 @@ layout: home
 
 <br/>
 <p align=center>
-[![QR](docs/assets/QR.jpg)]
+![QR](docs/assets/QR.jpg)
 <br/>
 "<i>Elke verandering is een verslechtering,<br/>
 zelfs een verbetering</i>" - J.C. Bloem
