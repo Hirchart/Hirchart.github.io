@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Akkers in het Bennekomse bos"
-date:   04-10-2021
-categories: blog
+// layout: post
+// title:  "Akkers in het Bennekomse bos"
+// date:   04-10-2021
+// categories: blog
+// WIJZIGEN: filename naar 2021-10-04-Akkers.markdown
 ---
 Goed nieuws uit Bennekom: de akkers op de Hullenberg worden behouden, zo berichtte [het Bennekoms Nieuwsblad](https://www.bennekomsnieuwsblad.nl/lokaal/natuur-en-milieu/753315/historische-akkers-op-bennekomse-hullenberg-behouden) op 18 september. In het kader van het Klimaatakkoord was Staatsbosbeheer voornemens deze akkers vol te planten met bomen, onder de noemer "nieuwe natuur"; conform het akkoord moet er 500 hectare bos worden bijgeplant op de Veluwe. Gelukkig heeft Staatsbosbeheer inmiddels geconcludeerd dat de akkers van cultuurhistorische waarde zijn, nadat een petitie van de [Historische Vereniging Oud-Bennekom](https://www.oudbennekom.nl/) aandacht vroeg voor het behoud van deze akkers. 
 <br/>
