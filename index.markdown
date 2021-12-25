@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Welkom op mijn weblog.
 <br/>
 [![QR](docs/assets/QR.jpg)](qr)
 <p align=center>
