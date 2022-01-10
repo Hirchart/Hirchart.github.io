@@ -12,7 +12,7 @@ Stralend als zij altijd is geweest.<br/><br/>
 Alomtegenwoordig, onverstoorbaar<br/>
 Is het leven, dat den dood ontbloeit,<br/>
 En de kleinste klacht schijnt nauwlijks oorbaar,<br/>
-Waar de rogge om de ruines groet.<br/>
+Waar de rogge om de ruïnes groet.<br/>
 </i><br/> - J.C. Bloem
 </p>
 <br/>
