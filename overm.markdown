@@ -9,4 +9,4 @@ Geboren en getogen in het schilderachtige Veluwse dorp Bennekom, waar hij de bos
 
 Alle schrijfsels en uitlatingen op deze website zijn op persoonlijke titel. Eventuele overeenkomsten en gelijkenissen met de realiteit berusten op puur toeval.
 
-De website heb is gemaakt met behulp van [Jekyll](https://jekyllrb.com/).
+De website is gemaakt met behulp van [Jekyll](https://jekyllrb.com/).
