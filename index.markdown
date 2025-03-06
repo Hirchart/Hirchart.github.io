@@ -20,7 +20,4 @@ Waar de rogge om de ruïnes groeit.<br/>
 
 <span style="color:white">.</span>
 
-____________  
 
-
-<span style="color:white">.</span>
