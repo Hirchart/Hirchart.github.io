@@ -18,6 +18,6 @@ Waar de rogge om de ruïnes groeit.<br/>
 <br/>
 
 
-<span style="color:white">.</span>
+<span style="color:white"></span>
 
 
